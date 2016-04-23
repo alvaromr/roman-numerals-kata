@@ -2,10 +2,10 @@
 Test Driven Development Kata.
 
 ## Part I
-write a function to convert from arabic numbers to Roman Numerals
+Write a function to convert from arabic numbers to roman numerals.
 
 ## Part II
-write a function to convert from Roman Numerals to arabic numbers
+Write a function to convert from roman numerals to arabic numbers.
 
 ## Roman numeric system
 
